@@ -1,0 +1,23 @@
+Django
+managr.py makemigrations
+managr.py migrate
+showmigrationsm
+from demoapp.models import Menu
+Menu.objects.get
+Menu.objects.all() # show all data
+brew install mysql
+
+
+pip3 install virtualenv
+source flipkart/bin/activate
+pip3 install django
+django-admin startproject flipkart
+python3 manage.py runserver
+python3 manage.py startapp <restaurant>
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py runserver
+python3 manage.py shell
+create url,py in app
+create new virtual enviorment - python3 -m venv myworld
+Git:
